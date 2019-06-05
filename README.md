@@ -1,2 +1,2 @@
-# A-and-Dijkstra
-Implementation of A* and Dijkstra on Point and Rigid Robot
+# Dijkstra and A*
+Implementation of Dijkstra and A* on Point and Rigid Robot
